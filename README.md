@@ -8,6 +8,14 @@ vibe-cli allows you to easily manage and orchestrate forked chain environments, 
 > vibe-cli is currently a work in progress.
 > However, an earlier iteration of vibe-cli (found [here on my personal GitHub account](https://github.com/GreenWojak/vibe-cli)) is currently live on npm.
 
-## Roadmap
-- ✅ First test item
-- ❌ Second test item
+## Production Roadmap
+- ✅ Initialization 
+- ✅ Compilation
+- 🚧 Type generation
+- 🚧 Forking
+- 🚧 Deploying
+- 🚧 Funding
+- 🚧 Running scripts
+- 🚧 Snapshots
+- 🚧 Replays
+- 🚧 Verification
